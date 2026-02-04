@@ -4,7 +4,13 @@ This project is a **C# Windows Forms desktop application** created to manage pro
 
 The application provides a simple and clear interface to add, edit, delete, and view inventory items.  
 The focus of this project is practical use of C#, basic business logic, and clean project structure.
+  
+It is designed to help small businesses manage their daily inventory operations in a simple and organized way.
 
+The application provides features for managing **products**, **customers**, and **orders**, allowing users to keep track of inventory quantities and business records.  
+It also includes basic **reporting** functionality to help view and review stored data in a clear format.
+
+The focus of the application is ease of use, clean interface design, and practical implementation of core C# and WinForms concepts in a real business-oriented scenario.
 ------
 
 ## Download Application
@@ -52,13 +58,8 @@ This repository contains the **source code only**.
 The compiled application is provided separately in the **Releases** section.
 
 ---
-## About the Application
 
-The Business Inventory Management System is a desktop application developed using C# and Windows Forms.  
-It is designed to help small businesses manage their daily inventory operations in a simple and organized way.
-
-The application provides features for managing **products**, **customers**, and **orders**, allowing users to keep track of inventory quantities and business records.  
-It also includes basic **reporting** functionality to help view and review stored data in a clear format.
-
-The focus of the application is ease of use, clean interface design, and practical implementation of core C# and WinForms concepts in a real business-oriented scenario.
+> **Note:**  
+> The application was designed and implemented based on my own business rules and assumptions.  
+> The structure, logic, and workflow reflect personal design decisions made for learning and practical purposes.
 
