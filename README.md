@@ -19,8 +19,7 @@ The focus of the application is ease of use, clean interface design, and practic
 ## Data Storage
 
 The application saves all data **locally** on the user’s computer.  
-All application data is stored inside the Windows **AppData** directory in a folder named:
-
+All application data is stored inside the Windows **AppData** directory in a folder named: MyBusinessInventoryApp
 This folder is created automatically when the application runs for the first time and is used to store all required data files for the application.
 
 
