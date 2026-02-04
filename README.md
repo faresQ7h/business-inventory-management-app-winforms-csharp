@@ -16,7 +16,7 @@ The focus of the application is ease of use, clean interface design, and practic
 > The application was designed and implemented based on my own business rules and assumptions.  
 > The structure, logic, and workflow reflect personal design decisions made for learning and practical purposes.
 
-![Dashboard](screenshots/Screenshot 2026-02-04 011857.png)
+![Dashboard](screenshots/Screenshot 2026-02-04 011810.png)
 ![Dashboard](screenshots/Screenshot 2026-02-04 011810.png)
 
 ------
