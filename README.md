@@ -11,6 +11,11 @@ The application provides features for managing **products**, **customers**, and 
 It also includes basic **reporting** functionality to help view and review stored data in a clear format.
 
 The focus of the application is ease of use, clean interface design, and practical implementation of core C# and WinForms concepts in a real business-oriented scenario.
+
+> **Note:**  
+> The application was designed and implemented based on my own business rules and assumptions.  
+> The structure, logic, and workflow reflect personal design decisions made for learning and practical purposes.
+
 ------
 
 ## Download Application
@@ -56,10 +61,4 @@ The application is safe to run.
 
 This repository contains the **source code only**.  
 The compiled application is provided separately in the **Releases** section.
-
----
-
-> **Note:**  
-> The application was designed and implemented based on my own business rules and assumptions.  
-> The structure, logic, and workflow reflect personal design decisions made for learning and practical purposes.
 
