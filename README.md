@@ -50,3 +50,15 @@ The application is safe to run.
 
 This repository contains the **source code only**.  
 The compiled application is provided separately in the **Releases** section.
+
+---
+## About the Application
+
+The Business Inventory Management System is a desktop application developed using C# and Windows Forms.  
+It is designed to help small businesses manage their daily inventory operations in a simple and organized way.
+
+The application provides features for managing **products**, **customers**, and **orders**, allowing users to keep track of inventory quantities and business records.  
+It also includes basic **reporting** functionality to help view and review stored data in a clear format.
+
+The focus of the application is ease of use, clean interface design, and practical implementation of core C# and WinForms concepts in a real business-oriented scenario.
+
