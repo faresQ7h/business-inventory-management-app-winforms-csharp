@@ -17,7 +17,7 @@ The focus of the application is ease of use, clean interface design, and practic
 > The structure, logic, and workflow reflect personal design decisions made for learning and practical purposes.
 
 ![Dashboard](screenshots/login.png)
-![Dashboard](screenshots/interface.png)
+![Dashboard](screenshots/Interface.png)
 
 ------
 
