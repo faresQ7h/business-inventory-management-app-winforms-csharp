@@ -16,6 +16,14 @@ The focus of the application is ease of use, clean interface design, and practic
 > The application was designed and implemented based on my own business rules and assumptions.  
 > The structure, logic, and workflow reflect personal design decisions made for learning and practical purposes.
 
+## Data Storage
+
+The application saves all data **locally** on the user’s computer.  
+All application data is stored inside the Windows **AppData** directory in a folder named:
+
+This folder is created automatically when the application runs for the first time and is used to store all required data files for the application.
+
+
 ![Dashboard](screenshots/login.png)
 ![Dashboard](screenshots/Interface.png)
 
