@@ -18,6 +18,7 @@ The focus of the application is ease of use, clean interface design, and practic
 
 ![Dashboard](screenshots/Screenshot 2026-02-04 011810.png)
 ![Dashboard](screenshots/Screenshot 2026-02-04 011810.png)
+
 ------
 
 ## Download Application
